@@ -1,0 +1,3 @@
+This is the second file from singapore branch
+Here we are trying to work only on singapore branch and not merge with master branch
+Although we need set some rules and lock master from automatic merges
